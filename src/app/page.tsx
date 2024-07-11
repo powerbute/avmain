@@ -45,7 +45,7 @@ export default function HomePage() {
           </div>
         </div>
         <div className='py-24 flex flex-col gap-12 mx-auto md:px-6 container'>
-          <div className='flex flex-col items-center'>
+          <div className='hidden flex-col items-center'>
             <div id='join' className='p-6 md:rounded-2xl gap-4 flex flex-col items-center justify-center bg-dark4'>
               <div className='text-4xl mb-6 font-black'>Сервер открывается 6 июля</div>
               <div className='text-9xl mb-10'>🦋</div>
