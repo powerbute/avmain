@@ -48,7 +48,7 @@ export default function RootLayout({
 }) {
   return (
     <html>
-      <body className='text-white bg-dark'>{children}</body>
+      <body className='text-white bg-gradient-to-br from-[#2dd4bf] to-[#115e59]'>{children}</body>
     </html>
   );
 }

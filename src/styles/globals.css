@@ -127,7 +127,7 @@ animation: homeText .8s cubic-bezier(.4,0,.2,1);
 }
 
 ::-webkit-scrollbar-track {
-  background-color: #161616;
+  background-color: #0f766e;
 }
 
 ::-webkit-scrollbar-thumb {
